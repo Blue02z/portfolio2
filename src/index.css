@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Poppins-semiBold";
+  src: url(./fonts/Poppins/Poppins-SemiBold.ttf);
+  font-family: "Poppins-bold";
+  src: url(./fonts/Poppins/Poppins-Bold.ttf);
+  font-family: "Poppins-extraBold";
+  src: url(./fonts/Poppins/Poppins-ExtraBold.ttf);
+  font-family: "Poppins-medium";
+  src: url(./fonts/Poppins/Poppins-Medium.ttf);
+}
